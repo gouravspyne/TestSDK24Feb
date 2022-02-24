@@ -48,7 +48,7 @@ afterEvaluate {
         publications {
             release(MavenPublication) {
                 from components.release
-                groupId = "com.spyneai"
+                groupId = "com.github.gouravspyne"
                 artifactId = "spyne_sdk_2"
                 version = '1.0'
             }
