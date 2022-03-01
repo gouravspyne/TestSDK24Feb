@@ -2,6 +2,7 @@ plugins {
     id 'com.android.library'
     id 'kotlin-android'
     id 'maven-publish'
+//    id 'com.google.gms.google-services'
     id 'kotlin-android-extensions'
 }
 
@@ -41,6 +42,21 @@ android {
 
 dependencies {
 
+//    implementation platform('com.google.firebase:firebase-bom:29.1.0')
+//    implementation 'com.google.firebase:firebase-analytics'
+
+    implementation 'androidx.core:core-ktx:1.7.0'
+    implementation 'androidx.appcompat:appcompat:1.4.1'
+    implementation 'com.google.android.material:material:1.5.0'
+    implementation 'androidx.constraintlayout:constraintlayout:2.1.3'
+
+//    implementation project(path: ':spynesdkapplication')
+    testImplementation 'junit:junit:4.+'
+    androidTestImplementation 'androidx.test.ext:junit:1.1.3'
+    androidTestImplementation 'androidx.test.espresso:espresso-core:3.4.0'
+
+//    implementation 'com.posthog.android:posthog:1.+'
+//
 }
 
 afterEvaluate {
@@ -49,7 +65,7 @@ afterEvaluate {
             release(MavenPublication) {
                 from components.release
                 groupId = 'com.spyneai.spynesdk2'
-                artifactId = 'spyne_sdk_2'
+                artifactId = 'ABC'
                 version = '1.0'
             }
         }

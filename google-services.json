@@ -1,0 +1,97 @@
+{
+  "project_info": {
+    "project_number": "999100302965",
+    "project_id": "test-85c90",
+    "storage_bucket": "test-85c90.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999100302965:android:ddc3f4d22bd44b69a69a3c",
+        "android_client_info": {
+          "package_name": "com.spyneai.spynesdk2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "999100302965-0httal7914ggc26solveq0ejar3q4fks.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9PjtfZ44mAh4fIXQfg8fRfN0OMBt_gMY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "999100302965-0httal7914ggc26solveq0ejar3q4fks.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999100302965:android:1230dd7107a74dd0a69a3c",
+        "android_client_info": {
+          "package_name": "com.spyneai.spynesdktestapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "999100302965-0httal7914ggc26solveq0ejar3q4fks.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9PjtfZ44mAh4fIXQfg8fRfN0OMBt_gMY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "999100302965-0httal7914ggc26solveq0ejar3q4fks.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999100302965:android:405905f3b2d0ee07a69a3c",
+        "android_client_info": {
+          "package_name": "com.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "999100302965-0httal7914ggc26solveq0ejar3q4fks.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9PjtfZ44mAh4fIXQfg8fRfN0OMBt_gMY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "999100302965-0httal7914ggc26solveq0ejar3q4fks.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
